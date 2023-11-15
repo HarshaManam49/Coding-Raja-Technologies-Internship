@@ -1,8 +1,8 @@
 # Coding-Raja-Technologies-Internship
-## Classification of Indian Food Classification using Pretrained models
+## 1)Classification of Indian Food Classification using Pretrained models
 >Data set link <https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification>
 
-## Sentiment Analysis of Social Media Comments
+## 2)Sentiment Analysis of Social Media Comments
 >Data set link <https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset> <br>
 ##### Tech Stack<br>
 >Spacy library  
